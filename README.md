@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=developer-shivam&color=blue)
+<!-- ![](https://komarev.com/ghpvc/?username=developer-shivam&color=blue) -->
 
-🔭 I’m currently working on [Klimatic](https://github.com/developer-shivam/Klimatic)
+<!-- 🔭 I’m currently working on [Klimatic](https://github.com/developer-shivam/Klimatic) -->
 
 <!--
 **developer-shivam/developer-shivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
